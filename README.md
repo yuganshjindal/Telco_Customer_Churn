@@ -63,6 +63,7 @@ The following six classification models were implemented and evaluated on the sa
   - XGBoost (Ensemble)
 
 4. Model Performance Comparison
+
 | ML Model Name       | Accuracy | AUC    | Precision | Recall | F1     | MCC    |
 | ------------------- | -------- | ------ | --------- | ------ | ------ | ------ |
 | Logistic Regression | 0.8006   | 0.8314 | 0.6440    | 0.5562 | 0.5968 | 0.4675 |
@@ -73,6 +74,7 @@ The following six classification models were implemented and evaluated on the sa
 | XGBoost             | 0.7878   | 0.8280 | 0.6206    | 0.5160 | 0.5635 | 0.4280 |
 
 5. Observations and Analysis
+
 | ML Model                | Observation                                                                                                                                         |
 | ----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Logistic Regression** | Achieved the highest overall Accuracy and AUC, indicating strong baseline performance and good class separation despite its linear nature.          |
